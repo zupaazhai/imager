@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Zupaazhai\Imager\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ImagerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'imager';
 
     public $description = 'My command';
 
