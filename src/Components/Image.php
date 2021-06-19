@@ -9,7 +9,6 @@ class Image extends Component
 {
     public function __construct()
     {
-
     }
 
     public function render(): View
